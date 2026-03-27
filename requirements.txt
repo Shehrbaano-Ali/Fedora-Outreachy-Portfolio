@@ -1,4 +1,4 @@
 streamlit
 streamlit-option-menu
-streamlit-gsheets
+st-gsheets-connection
 pandas
